@@ -1,5 +1,5 @@
 # Sales-Performance-Analysis-Report
-![Sales performance report analysis dashboard's screenshot](https://picsum.photos/800/800)
+![Sales performance report analysis dashboard's screenshot](https://github.com/walex008/Sales-Performance-Analysis-Report/blob/main/Sales%20performance%20dashboard%20screenshot.JPG)
 
 This is an exploratory analysis of a fictional company Simtech Ltd. I attempted to do an exploratory data analysis on the dataset. The following are my findings, limitation encountered and recommendations.
 
